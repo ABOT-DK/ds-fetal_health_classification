@@ -123,10 +123,7 @@ This machine learning project aims to:
 
 ---
 
-## Usage Note
-> This project is intended for **research purposes only**. Clinical deployment requires additional validation, clinical data and regulatory approvals.
 
----
 
 ## Future Work
 - Integration with EHR systems
